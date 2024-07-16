@@ -1,2 +1,2 @@
 # styles-for-edutekaLab
-Estilo para edutekaLab
+Estilos para edutekaLab
